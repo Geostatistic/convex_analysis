@@ -16,4 +16,4 @@
 *.jpg
 *.html
 *.png
-*.ipynb*
+.ipynb*
